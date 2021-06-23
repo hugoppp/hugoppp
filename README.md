@@ -1,5 +1,5 @@
 #### [My learning list](https://github.com/users/hugoppp/projects/2)
-#### Time spend per language since Feb 2021 (some editors not included)
+#### Most used languages since Feb 2021 (some editors not included)
 
 <a href="https://wakatime.com/@e6e22af3-e952-4e5e-bc31-547c314437a2">
 <img style="position: absolute; top: 76px; right: 0; border: 0" width="55%" alt="wakatime" 
