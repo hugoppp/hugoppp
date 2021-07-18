@@ -5,4 +5,4 @@
 #### Most used languages since Feb 2021
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hugop&langs_count=10)](https://wakatime.com/@hugop)
 #### 🎌 Learning Japanese as a hobby
-<kbd><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTHQp-7YXkTqSpTynXzSlfqYEgmQmLV-cSNR4TsfqucC7XWwdL8uCxTIpZglDXNK246tgXBGmjOUr-T/pubchart?oid=1071380973&amp;format=image"></img></kbd>
+<kbd><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTHQp-7YXkTqSpTynXzSlfqYEgmQmLV-cSNR4TsfqucC7XWwdL8uCxTIpZglDXNK246tgXBGmjOUr-T/pubchart?oid=676189665&amp;format=image"></img></kbd>
