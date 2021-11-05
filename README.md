@@ -5,6 +5,11 @@
 - 💼 Working student at PASS MULTIBANK Solutions AG
 - :de: Living in Hamburg, Germany
 
+I organize my repos into two orgs
+1. All my university repos can be found at [@hugopp-uni](https://github.com/hugoppp-uni)
+1. All my private learning repos can be found at [@hugopp-learning](https://github.com/hugoppp-learning)
+    - I also keep a list of things I want to learn [here](https://github.com/users/hugoppp/projects/2)
+
 #### 🕖 Most used languages since Feb 2021
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hugop&langs_count=10)](https://wakatime.com/@hugop)
 #### 🎌 Learning Japanese as a hobby
