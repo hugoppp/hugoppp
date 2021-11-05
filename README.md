@@ -10,7 +10,7 @@ I organize my repos into two orgs
 1. All my private learning repos can be found at [@hugopp-learning](https://github.com/hugoppp-learning)
     - I also keep a list of things I want to learn [here](https://github.com/users/hugoppp/projects/2)
 
-#### 🕖 Most used languages since Feb 2021
+#### 🕖 My most used languages since Feb 2021
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hugop&langs_count=10)](https://wakatime.com/@hugop)
-#### 🎌 Learning Japanese as a hobby
+#### 🎌 I'm learning Japanese as a hobby (and love to collect stats)
 <kbd><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTHQp-7YXkTqSpTynXzSlfqYEgmQmLV-cSNR4TsfqucC7XWwdL8uCxTIpZglDXNK246tgXBGmjOUr-T/pubchart?oid=1954121928&amp;format=image"></img></kbd>
