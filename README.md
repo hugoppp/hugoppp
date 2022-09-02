@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Hugo👋 
 - 📚 Computer Science for Technical Systems Student, HAW Hamburg
-- 💼 Working student at PASS MULTIBANK Solutions AG
+- 💼 Working student at OTTO
 - :de: Living in Hamburg, Germany
 
 I organize my repos into two orgs
