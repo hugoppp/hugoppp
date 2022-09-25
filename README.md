@@ -13,4 +13,4 @@ I organize my repos into two orgs
 #### 🕖 My most used languages since Feb 2021
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hugop&langs_count=10)](https://wakatime.com/@hugop)
 #### 🎌 I'm learning Japanese as a hobby (and love to collect stats)
-<kbd><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTHQp-7YXkTqSpTynXzSlfqYEgmQmLV-cSNR4TsfqucC7XWwdL8uCxTIpZglDXNK246tgXBGmjOUr-T/pubchart?oid=1954121928&amp;format=image" width="490"/></kbd>
+<kbd><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTHQp-7YXkTqSpTynXzSlfqYEgmQmLV-cSNR4TsfqucC7XWwdL8uCxTIpZglDXNK246tgXBGmjOUr-T/pubchart?oid=1502862529&format=image" width="490"/></kbd>
