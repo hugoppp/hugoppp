@@ -5,7 +5,7 @@ I am a passionate full-stack web developer who loves to learn new technologies. 
 
 I am currently
 - 📚 Student for Computer Science for Technical Systems @HAW Hamburg
-- 💼 Software dev @OTTO
+- 💼 Full-stack dev @OTTO
 - :de: Living in Hamburg, Germany
 
 I organize my repos into two orgs
