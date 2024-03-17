@@ -13,5 +13,6 @@ I organize my repos into two orgs
 1. When I learn something in my free time, I archive the repo in [@hugopp-learning](https://github.com/hugoppp-learning)
     - I also keep a list of things I might want to learn in the future [here](https://github.com/users/hugoppp/projects/2)
 
-#### 🕖 My most used languages since Feb 2021
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hugop&langs_count=10)](https://wakatime.com/@hugop)
+<hr>
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugop\&layout=compact\&langs_count=14\&custom_title=Most%20used%20languages%20since%20Feb%202021\&Cache-Control:no-cache)](https://wakatime.com/@hugop)
