@@ -12,7 +12,7 @@ I organize my repos into two orgs
 1. All my university repos are public, they can be found at [@hugopp-uni](https://github.com/hugoppp-uni)
     - I always aimed to implement all assignments to the standards of production code
 1. When I learn something in my free time, I archive the repo in [@hugopp-learning](https://github.com/hugoppp-learning)
-    - I also keep a list of things I might want to learn in the future [here](https://github.com/users/hugoppp/projects/2)
+    - I also keep a list of things I might want to learn in the future [here](https://github.com/users/hugoppp/projects/5)
 
 <hr>
 
