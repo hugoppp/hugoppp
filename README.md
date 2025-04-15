@@ -3,6 +3,12 @@
 ## Hi there, I'm Hugo👋 
 I am a passionate full-stack web developer who loves to learn new technologies. My focuss lies on web backend and high performance low level code, but I can also work on frontend related task when needed.
 
+Thighs I live by:
+- "Patterns exist to make your lives easier. If the pattern is not making your life easier, stop using"
+- KISS & YAGNI
+- Move fast & break things
+
+
 I keep personal learning projects in [@hugopp-learning](https://github.com/hugoppp-learning) and also keep a list of things I want to learn in the future [here](https://github.com/users/hugoppp/projects/5).
 
 An archive of all of my university repos can also be found at [@hugopp-uni](https://github.com/hugoppp-uni)
