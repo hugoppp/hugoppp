@@ -6,7 +6,8 @@ I am a passionate full-stack web developer who loves to learn new technologies. 
 Things I live by:
 - "Patterns exist to make your lives easier. If the pattern make a your life harder, stop using it"
 - KISS & YAGNI
-- Move fast & break things
+- Move fast & iterate 
+- E2E typesafty above all else
 
 
 I keep personal learning projects in [@hugopp-learning](https://github.com/hugoppp-learning) and also keep a list of things I want to learn in the future [here](https://github.com/users/hugoppp/projects/5).
