@@ -3,7 +3,7 @@
 ## Hi there, I'm Hugo👋 
 I am a passionate full-stack web developer who loves to learn new technologies. My focuss lies on web backend and high performance low level code, but I can also work on frontend related task when needed.
 
-Things I live by:
+Principles I live by:
 - "Patterns exist to make your lives easier. If the pattern make a your life harder, stop using it"
 - KISS & YAGNI
 - Move fast & iterate 
